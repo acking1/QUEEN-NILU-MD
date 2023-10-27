@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;F6RGxIJB#TXiYG4hHiyaiGopoT99aGd-EskDjqX26yaLUNOYydyA' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;VyRikTZZ#N4HUeMb-C1cCYNg1fI_awh2i8HFwajAXI9K0K6Bs1KI' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgres://akashcreation_user:L8loCH6ix3NInmfSTb9zVgmKHR9HmxK8@dpg-cktk4o6nfb1c73e7tm80-a.frankfurt-postgres.render.com/akashcreation'
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = 'postgres://akashcreation_user:L8loCH6ix3NInmfSTb9zVgmKH
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '919564704717'
+global.OWNER_NUMBER = '918927415121'
 
-global.OWNER_NAME = 'Ꭺҡaຮh Creation'
+global.OWNER_NAME = 'Dark D Hacking'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'Dark D'
 
 global.FOOTER = 'Akash Creation 2023'
 
